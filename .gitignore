@@ -1,0 +1,13 @@
+# Compiled Object files
+*.o
+
+# Lexer Files
+*.yy.c
+
+# Link & Misc Files
+*.h
+*.output
+y.tab.c
+
+# Main File
+dcc
